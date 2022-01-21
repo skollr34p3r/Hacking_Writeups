@@ -1,5 +1,5 @@
 - Basic nmap scan:
-C:\Users\joseph.clay\.config\joplin-desktop\resources\24495500cfa3414a9fd92caadb647939.png
+![63c4f336c1ecbbd9785ddb1684a711bf.png](file:///C:/Users/joseph.clay/.config/joplin-desktop/resources/24495500cfa3414a9fd92caadb647939.png)
 Notice port 80 is open so browse to IP
 ![21b2a9c7ddb7bb1401d8948acab101bf.png](:/f8cacd3701ab4806ae204aebbab8368c)
 It's IIS, so I wonder if the version is vulnerable
